@@ -54,8 +54,8 @@ The system is designed as a research-focused tool to help students, researchers,
 ---
 
 ## 🗂 Project Structure
-LLM-Bias-Detection-Academic-Writing/
-│
+LLM-Bias-Detection-Academic-Writing/│
+
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
